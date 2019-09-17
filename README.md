@@ -1,7 +1,7 @@
 
-# First comit - aici se gaseste tema cu afisarea comentariilor in componenta "Post"
+# Commit cu afisarea comentariilor in componenta "Post"
 
-# Commit cu tema in versiunea cu o componenta separata de comments
+# Commit cu tema in versiunea cu o componenta separata de commentis
 
 ```
 ```
