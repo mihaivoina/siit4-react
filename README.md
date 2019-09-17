@@ -1,3 +1,10 @@
+
+# First comit - aici se gaseste tema cu afisarea comentariilor in componenta "Post"
+
+# Commit cu tema in versiunea cu o componenta separata de comments
+
+```
+```
 # Aplicatia de la curs
 
 ## Instalare
